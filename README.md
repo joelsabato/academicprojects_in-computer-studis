@@ -8,7 +8,7 @@ Currently studying and building a strong foundation in technology
  Interested in Web Development and Database Systems, Actively learning and practicing HTML, CSS, and MySQL,Focused on creating solutions that can be useful in real life
 ,Always improving through projects and experimentation
 
-🛠️ SKILLS
+SKILLS
 
  HTML (Web page structure)
  CSS (Basic styling)
